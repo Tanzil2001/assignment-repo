@@ -28,7 +28,7 @@
     text-align: right;
     margin-right: 65px;
     margin-top: 60px;
-    
+
 }
 
 
@@ -41,11 +41,40 @@ button{
 }
 /* header-section end */
 
+/* main-section-1 start */
+.title-main h2 {
+    font-size: 30px;
+    margin-top: 100px;
+    width: 200px;
+     
+}
+
+.div-main{ 
+    margin-left: 200px;
+    margin-top: 150px;
+}
 
 
+.section-main{ 
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 80px;
+    display: flex;
 
+}
 
+.description-main{ 
+    width: 500px;
 
+}
+
+.li-main{
+    font-size: 25px;
+
+}
+/* main-section-1 end */
+
+/* section-main 2 start */
 
 
 
